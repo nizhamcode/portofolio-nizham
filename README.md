@@ -1,1 +1,171 @@
-# portofolio-nizham
+<p align="center">
+  <img src="nizhamcode.webp" width="100%" height="220" alt="Nizham Code Banner"/>
+</p>
+
+<h1 align="center">
+Assalamu'alaikum 👋 Hi, I'm Abdullah Nizham Alfakhri
+</h1>
+
+<h3 align="center">
+🎓 TJKT Student • 🌐 Future Network Engineer • 💻 Web Developer • 🇯🇵 Road to Japan
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+NizhamCode!;TJKT+Student+at+SMKN+1+Rangkasbitung;Learning+Networking+%26+Programming;Building+Projects+Every+Week;Dreaming+Big+%E2%80%A2+Working+Hard+%E2%80%A2+Japan+%F0%9F%87%AF%F0%9F%87%B5" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name        : Abdullah Nizham Alfakhri
+School      : SMKN 1 Rangkasbitung
+Major       : Teknik Jaringan Komputer dan Telekomunikasi (TJKT)
+Country     : Indonesia 🇮🇩
+Goal        : Network Engineer | Full Stack Developer | Japan 🇯🇵
+```
+
+### 🚀 Currently Learning
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🐧 Linux
+- 🌍 Computer Networking
+- 🔧 Git & GitHub
+- 🇬🇧 English
+- 🇯🇵 Japanese (JLPT N5)
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Overall Champion (Rank 1) – Grade 7–9
+- 🧮 Mathematics Olympiad (OSN) School Selection
+- 👨‍🏫 Class Leader
+- 🎓 Accepted to SMKN 1 Rangkasbitung (TJKT)
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,windows" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌐 Portfolio Website | Personal Portfolio | ✅ Active |
+| 💻 HTML & CSS Notes | Learning Repository | 🚧 |
+| 🌍 Networking Notes | CCNA & Networking Journey | 🚧 |
+| 🐧 Linux Notes | Linux Learning Journey | 🚧 |
+| 🇯🇵 Road To Japan | Japanese Learning Progress | 🚧 |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nizhamcode&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizhamcode&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nizhamcode&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a TJKT Student
+- ⬜ Build 20+ GitHub Projects
+- ⬜ Create Professional Portfolio Website
+- ⬜ Learn Linux Fundamentals
+- ⬜ Master Computer Networking Basics
+- ⬜ Earn First Tech Certificate
+- ⬜ Start Japanese (JLPT N5)
+
+---
+
+# 🛣️ Roadmap
+
+```text
+2026  ██████████  Enter TJKT ✅
+
+2027  ███████░░░  HTML • CSS • JavaScript • Linux
+
+2028  █████░░░░░  Cisco • MikroTik • Portfolio
+
+2029  ███░░░░░░░  Internship • JLPT N5 • Graduation
+
+2030+ ██████████  Career / Study in Japan 🇯🇵
+```
+
+---
+
+# 🌍 Connect With Me
+
+📧 **Email**
+
+- zimzam.id@gmail.com
+
+🌐 **Portfolio**
+
+- https://nizhamcode.github.io/portofolio-nizham/
+
+🐙 **GitHub**
+
+- https://github.com/nizhamcode
+
+---
+
+# 💡 Motto
+
+> **"Learn consistently. Build real projects. Share knowledge. Never stop growing."**
+
+---
+
+# 🇯🇵 自己紹介
+
+こんにちは！
+
+アブドゥラ・ニザム・アルファクリです。
+
+- 🎓 インドネシアのTJKT学生
+- 🌐 ネットワークエンジニアを目指しています
+- 💻 Web開発を勉強しています
+- 🇯🇵 日本語を勉強中（JLPT N5）
+- 🚀 将来は日本で働くことが目標です
+
+---
+
+# 🎯 My Mission
+
+> Build Skills 📚  
+> Build Projects 💻  
+> Build Character 🤝  
+> Build Future 🚀  
+> Build Opportunities in Japan 🇯🇵
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+**Let's Learn • Build • Grow Together 🚀**
+
+</p>
