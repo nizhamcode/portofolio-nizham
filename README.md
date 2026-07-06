@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="nizhamcode.webp" width="100%" height="220" alt="Nizham Code Banner"/>
-</p>
+
 
 <h1 align="center">
 Assalamu'alaikum 👋 Hi, I'm Abdullah Nizham Alfakhri
