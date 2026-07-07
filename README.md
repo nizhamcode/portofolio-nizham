@@ -1,7 +1,7 @@
 # 🌐 Nizham Portfolio v1.0
 
 <p align="center">
-  <img src="assets/images/nizhamcode.webp" alt="NizhamCode Banner" width="100%">
+  <img src="assets/images/NC_img.png" alt="NizhamCode Banner" width="100%">
 </p>
 
 <p align="center">
