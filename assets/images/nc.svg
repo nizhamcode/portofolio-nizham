@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="70" viewBox="0 0 220 70">
+
+    <defs>
+
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+
+            <stop offset="0%" stop-color="#2563EB"></stop>
+
+            <stop offset="100%" stop-color="#38BDF8"></stop>
+
+        </linearGradient>
+
+    </defs>
+
+    <rect width="60" height="60" rx="15" fill="url(#grad)"></rect>
+
+    <text x="30" y="40" text-anchor="middle" font-size="26" font-family="Arial" font-weight="bold" fill="white">
+
+        NC
+
+    </text>
+
+    <text x="78" y="40" font-size="26" font-family="Arial" font-weight="bold" fill="#1F2937">
+
+        NizhamCode
+
+    </text>
+
+</svg>
